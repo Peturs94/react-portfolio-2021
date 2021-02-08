@@ -1,0 +1,35 @@
+export const SliderData = [
+    {
+      image:
+        'https://res.cloudinary.com/dyohgxjnt/image/upload/v1612388321/samples/Artwork/res_DE5202F4_test10.jpg'    
+    },
+    {
+      image:
+        'https://res.cloudinary.com/dyohgxjnt/image/upload/v1612388321/samples/Artwork/falli%C3%B0.png'
+    },
+    {
+      image:
+        'https://res.cloudinary.com/dyohgxjnt/image/upload/v1612388322/samples/Artwork/Tokamashi.png'
+    },
+    {
+      image:
+        'https://res.cloudinary.com/dyohgxjnt/image/upload/v1612388331/samples/Artwork/huuuh3_1.png'
+    },
+    {
+      image:
+        'https://res.cloudinary.com/dyohgxjnt/image/upload/v1612389672/samples/Artwork/dance_of_death-copy1-min.jpg'
+    },
+    {
+      image:
+        'https://res.cloudinary.com/dyohgxjnt/image/upload/v1612389685/samples/Artwork/DADDI-compressed.jpg'
+    },
+    {
+      image:
+        'https://res.cloudinary.com/dyohgxjnt/image/upload/v1612389687/samples/Artwork/prettyman-compressed.png'
+    },
+    {
+      image:
+        'https://res.cloudinary.com/dyohgxjnt/image/upload/v1612390154/samples/Artwork/jumpman.jpg'
+    }
+  ];
+  
